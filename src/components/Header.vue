@@ -11,6 +11,7 @@
 header {
   position: sticky;
   background: #E85B4A;
+  z-index: 99;
   width: 100%;
   top: 0;
   left: 0;
